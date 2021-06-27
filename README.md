@@ -1,4 +1,4 @@
-# Pneumonia prediction from chest X-ray images using Deep Learning (PyTorch)
+## Pneumonia prediction from chest X-ray images using Deep Learning (PyTorch)
  
  The aim of this project is to build a deep learning model to predict pneumonia from chest X-ray images, which would aid radiologists to make accurate predictions and start treatment without further delay.
  I have trained an 8-layer deep convolutional neural network from scratch, as well as used Transfer Learning using ResNet50 backbone, and compared the model performances of both the networks. 
