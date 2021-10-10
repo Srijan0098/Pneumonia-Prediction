@@ -7,4 +7,6 @@
  
 The IPython notebook Pneumonia_Prediction.ipynb contains all necessary codes and it also imports the module custom_functions.py. 
 Project_Presentation.pdf is the pdf of my project presentation, which explains some of the methods used.
+
+If the notebook fails to load, click on this [link](https://nbviewer.org/), type https://github.com/Srijan0098/Pneumonia-Prediction/blob/main/Pneumonia_Prediction.ipynb and click on 'Go!'. This would automatically load the notebook.
  
